@@ -1,0 +1,26 @@
+# Example Terraform Variables
+# Copy this file to terraform.tfvars and update with your values
+
+aws_region      = "us-east-1"
+environment     = "production"
+project_name    = "culturebridge"
+domain_name     = "culturebridge.com"
+
+# Get this from ACM after creating certificate
+certificate_arn = "arn:aws:acm:us-east-1:ACCOUNT_ID:certificate/CERTIFICATE_ID"
+
+# VPC Configuration
+vpc_cidr = "10.0.0.0/16"
+
+# Database Configuration
+database_instance_class     = "db.t3.medium"
+database_allocated_storage  = 100
+
+# Redis Configuration
+redis_node_type = "cache.t3.medium"
+
+# ECS Configuration
+ecs_backend_cpu     = 512
+ecs_backend_memory  = 1024
+ecs_frontend_cpu    = 256
+ecs_frontend_memory = 512
