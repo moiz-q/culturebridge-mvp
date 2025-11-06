@@ -132,7 +132,7 @@ sudo systemctl start redis
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-org/culturebridge-mvp.git
+git clone https://github.com/moiz-q/culturebridge-mvp.git
 cd culturebridge-mvp
 ```
 

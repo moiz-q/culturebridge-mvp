@@ -83,7 +83,7 @@ This is the fastest way to get the entire stack running locally.
 
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/your-org/culturebridge-mvp.git
+git clone https://github.com/moiz-q/culturebridge-mvp.git
 cd culturebridge-mvp
 ```
 
@@ -481,7 +481,7 @@ For more troubleshooting help, see `docs/DEPLOYMENT.md#troubleshooting`
 
 - **Email**: support@culturebridge.com
 - **Documentation**: https://docs.culturebridge.com
-- **Issue Tracker**: https://github.com/your-org/culturebridge-mvp/issues
+- **Issue Tracker**: https://github.com/moiz-q/culturebridge-mvp/issues
 
 ## License
 

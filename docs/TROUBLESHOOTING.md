@@ -705,7 +705,7 @@ If you're still experiencing issues:
 3. **Contact support**:
    - Email: dev-support@culturebridge.com
    - Slack: #culturebridge-dev
-   - GitHub Issues: https://github.com/your-org/culturebridge-mvp/issues
+   - GitHub Issues: https://github.com/moiz-q/culturebridge-mvp/issues
 
 4. **Useful resources**:
    - [API Documentation](../backend/API_DOCUMENTATION.md)
